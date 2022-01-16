@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Plugin-Version: 5.1.0
+Plugin-Id: dylantagging-plugin
+Plugin-Provider: OpenOSRS
+Plugin-Description: Tag people on your dylan list
+Plugin-License: 3-Clause BSD License
+

@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.openosrs.externals",
+    "module": "dylansepicplugin",
+    "version": "5.1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dylansepicplugin-5.1.0.jar",
+          "url": "dylansepicplugin-5.1.0.jar",
+          "size": 1784,
+          "sha512": "efd6ea11d62d55c6300722b7f0022b20049ae405e6c6a79ca12183b145897f8ae10069c9379028dbc4f16bf55c97384f41e3e0883578b4cedddd98306817a96a",
+          "sha256": "e82b081029151db7ff60b3af253a5764776bc88ecc03470faeb350e637c0447f",
+          "sha1": "b2de498ec08b8b1f9d65ea26f5fdd783eb1445b5",
+          "md5": "953e392d8f735b36b80f58ec6a636ab3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dylansepicplugin-5.1.0.jar",
+          "url": "dylansepicplugin-5.1.0.jar",
+          "size": 1784,
+          "sha512": "efd6ea11d62d55c6300722b7f0022b20049ae405e6c6a79ca12183b145897f8ae10069c9379028dbc4f16bf55c97384f41e3e0883578b4cedddd98306817a96a",
+          "sha256": "e82b081029151db7ff60b3af253a5764776bc88ecc03470faeb350e637c0447f",
+          "sha1": "b2de498ec08b8b1f9d65ea26f5fdd783eb1445b5",
+          "md5": "953e392d8f735b36b80f58ec6a636ab3"
+        }
+      ]
+    }
+  ]
+}
