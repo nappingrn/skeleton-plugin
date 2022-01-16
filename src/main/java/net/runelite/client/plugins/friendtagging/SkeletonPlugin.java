@@ -43,12 +43,12 @@ import org.pf4j.Extension;
 
 @Extension
 @PluginDescriptor(
-	name = "Dylan Tagging",
+	name = "Skeleton Plugin",
 	enabledByDefault = false,
-	description = "Tag people on your friends list.",
-	tags = {"PVP", "friend", "finder", "pk", "pklite"}
+	description = "Use this as to see how basic a plugin can be",
+	tags = {"dev","basics"}
 )
-public class DylansEpicPlugin extends Plugin
+public class SkeletonPlugin extends Plugin
 {
 
 }
