@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.openosrs.externals",
-    "module": "dylansepicplugin",
+    "module": "skeletonplugin",
     "version": "5.1.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "dylansepicplugin-5.1.0.jar",
-          "url": "dylansepicplugin-5.1.0.jar",
-          "size": 1784,
-          "sha512": "efd6ea11d62d55c6300722b7f0022b20049ae405e6c6a79ca12183b145897f8ae10069c9379028dbc4f16bf55c97384f41e3e0883578b4cedddd98306817a96a",
-          "sha256": "e82b081029151db7ff60b3af253a5764776bc88ecc03470faeb350e637c0447f",
-          "sha1": "b2de498ec08b8b1f9d65ea26f5fdd783eb1445b5",
-          "md5": "953e392d8f735b36b80f58ec6a636ab3"
+          "name": "skeletonplugin-5.1.0.jar",
+          "url": "skeletonplugin-5.1.0.jar",
+          "size": 1832,
+          "sha512": "9186ec46c822a6b3412d9e75ae021f8fa27e422398ef6b11f9b30a44373cd22178bb0472e132b8a13e59789b3080328b9ea6561c57b9639eef4ee8a671b8a6ed",
+          "sha256": "6e6b8ab0c5eb9950913eb4d719806fc440760de3febf809a95abe18bd2a4fcb0",
+          "sha1": "5efc53d9807cc1c93a4fef54e6e1509c2b9e839a",
+          "md5": "edbf7a4114eafd051bcf9f83891f0e78"
         }
       ]
     },
@@ -46,13 +46,13 @@
       },
       "files": [
         {
-          "name": "dylansepicplugin-5.1.0.jar",
-          "url": "dylansepicplugin-5.1.0.jar",
-          "size": 1784,
-          "sha512": "efd6ea11d62d55c6300722b7f0022b20049ae405e6c6a79ca12183b145897f8ae10069c9379028dbc4f16bf55c97384f41e3e0883578b4cedddd98306817a96a",
-          "sha256": "e82b081029151db7ff60b3af253a5764776bc88ecc03470faeb350e637c0447f",
-          "sha1": "b2de498ec08b8b1f9d65ea26f5fdd783eb1445b5",
-          "md5": "953e392d8f735b36b80f58ec6a636ab3"
+          "name": "skeletonplugin-5.1.0.jar",
+          "url": "skeletonplugin-5.1.0.jar",
+          "size": 1832,
+          "sha512": "9186ec46c822a6b3412d9e75ae021f8fa27e422398ef6b11f9b30a44373cd22178bb0472e132b8a13e59789b3080328b9ea6561c57b9639eef4ee8a671b8a6ed",
+          "sha256": "6e6b8ab0c5eb9950913eb4d719806fc440760de3febf809a95abe18bd2a4fcb0",
+          "sha1": "5efc53d9807cc1c93a4fef54e6e1509c2b9e839a",
+          "md5": "edbf7a4114eafd051bcf9f83891f0e78"
         }
       ]
     }

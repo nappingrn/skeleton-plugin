@@ -1,7 +1,9 @@
 Manifest-Version: 1.0
 Plugin-Version: 5.1.0
-Plugin-Id: dylantagging-plugin
+Plugin-Id: skeletonplugin-plugin
 Plugin-Provider: OpenOSRS
-Plugin-Description: Tag people on your dylan list
+Plugin-Description: This is a plugin in the most basic possible form, do
+ wnload it, drop it into your plugins project and build, it should work 
+ if your other external plugins also work
 Plugin-License: 3-Clause BSD License
 

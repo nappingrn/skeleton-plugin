@@ -7,7 +7,7 @@
  *
  */
 
-package net.runelite.client.plugins.friendtagging;
+package net.runelite.client.plugins.skeletonplugin;
 
 import com.google.common.base.Strings;
 import java.awt.Toolkit;
