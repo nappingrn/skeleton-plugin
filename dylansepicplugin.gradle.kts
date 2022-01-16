@@ -25,8 +25,8 @@
 
 version = "5.1.0"
 
-project.extra["PluginName"] = "Dylan Tagging"
-project.extra["PluginDescription"] = "Tag people on your dylan list"
+project.extra["PluginName"] = "Skeleton Plugin"
+project.extra["PluginDescription"] = "This is a plugin in the most basic possible form, download it, drop it into your plugins project and build, it should work if your other external plugins also work"
 
 tasks {
 	jar {
