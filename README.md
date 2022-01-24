@@ -1,4 +1,4 @@
-# skeleton-plugin for OpenOSRS
+# Skeleton plugin example for OpenOSRS
 Greetings, it took me a while to figure out how to make a plugin from scratch or at least find a place to copy from because im lazy so i made this repo
 
 anyway, all you do is:
